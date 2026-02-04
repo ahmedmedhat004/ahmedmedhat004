@@ -24,7 +24,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=1F6FEB"/>
   <img src="https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=1F6FEB"/>
-  <img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=java&logoColor=1F6FEB"/>
+  <img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=1F6FEB"/>
 </p>
 
 ---
@@ -33,7 +33,9 @@
 <p>
   <img src="https://img.shields.io/badge/NumPy-ffffff?style=for-the-badge&logo=numpy&logoColor=1F6FEB"/>
   <img src="https://img.shields.io/badge/Pandas-ffffff?style=for-the-badge&logo=pandas&logoColor=1F6FEB"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=1F6FEB"/>
   <img src="https://img.shields.io/badge/Scikit--learn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=1F6FEB"/>
+  <img src="https://img.shields.io/badge/TensorFlow-ffffff?style=for-the-badge&logo=tensorflow&logoColor=1F6FEB"/>
   <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=1F6FEB"/>
 </p>
 
