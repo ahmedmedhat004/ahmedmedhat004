@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&pause=1000&color=1F6FEB&center=true&vCenter=true&width=650&lines=Hello+Everyone%2C+I'm+Medhat;AI+Student+%7C+Machine+Learning+Enthusiast;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&pause=1000&color=1F6FEB&center=true&vCenter=true&width=650&lines=Hello+Everyone%2C;Welcome+to+my+GitHub+Profile!">
 </div>
 
 <br/>
@@ -57,4 +57,4 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/ahmed-medhat-731868298/  
 - 📫 Email: ahmedmedhata2004@gmail.com  
 
-💙 *Hello Everyone, I'm Medhat*
+💙 *Always learning, Always building*
